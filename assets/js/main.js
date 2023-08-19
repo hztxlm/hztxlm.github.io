@@ -1,8 +1,8 @@
 /*********************************************************************************
  Template Name: Shoplook Multipurpose eCommerce Bootstrap5 Html Template
- Description: A perfect template to build beautiful and unique Electronics websites. It comes with nice and clean design.
+ Description: A perfect template.html to build beautiful and unique Electronics websites. It comes with nice and clean design.
  Version: 1.0
- bootstrapģ��⣺HttP://www.bootstrapmb.com
+ bootstrapģ��⣺HttP://www.bootstrapmb.com
  **********************************************************************************/
 
 /*************************************************
@@ -1448,8 +1448,8 @@
             // End Header Sticky
 
             $(window).scrollTop() > 600 && $(".stickyCart").length ? (
-                    $("body.template-product").css("padding-bottom", "70px"),
-                    $(".stickyCart").slideDown()) : ($("body.template-product").css("padding-bottom", "0"),
+                    $("body.template.html-product").css("padding-bottom", "70px"),
+                    $(".stickyCart").slideDown()) : ($("body.template.html-product").css("padding-bottom", "0"),
                     $(".stickyCart").slideUp());
         };
         $(".stickyOptions .selectedOpt").on("click", function () {
